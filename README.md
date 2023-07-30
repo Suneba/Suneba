@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Deepankar Verma {(https://kirus.icu/)}
+# Hi there 👋 I'm Deepankar Verma https://kirus.icu/
 
 
 <!--
